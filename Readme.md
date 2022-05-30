@@ -28,7 +28,7 @@
 3. Run the script as per the format below
 
 
-### Use the below command to execute the script, this script takes three command line aruguments, those are github owner, repo name, and Branch name(i.e, the branch from which you want to create the pull request)
+### Use the below command to execute the script, this script takes three command line aruguments, those are github owner, repo name, source and destination Branch names(i.e, the branch from which you want to create the pull request and the branch to where you want to merge the PR)
 
 ` sh create_update_merge_pull_request.sh <github owner name> <repo name> <source branch name> <destination name> `
 
