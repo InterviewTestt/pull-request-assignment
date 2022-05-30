@@ -6,9 +6,7 @@
 
 #We have used Github provided APIs on this.  We are using Github personal access token to access the Github resources#
 
-##---------------------------------------##
-PREREQUISITES BEFORE EXECUTING THE SCRIPT
-##---------------------------------------##
+**PREREQUISITES BEFORE EXECUTING THE SCRIPT**
 
 1. A github account 
 
@@ -23,10 +21,7 @@ PREREQUISITES BEFORE EXECUTING THE SCRIPT
 5. Make sure you install the utilities 'dos2unix' , 'jq' in your local laptop where you run this script
 
 
-##------------##
-EXECUTION STEPS
-##------------##
-
+**EXECUTION STEPS**
 
 1. Replace every keyword 'token' in your script with your PAT token generated above
 
