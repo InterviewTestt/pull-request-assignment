@@ -1,8 +1,8 @@
 ### This script is used to perform the below activities. 
 
-## 1. Create the pull request
-## 2. Update the body of the created pull request with the PR number generated above.
-## 3. Merge the pull request to destination branch.
+1. Create the pull request
+2. Update the body of the created pull request with the PR number generated above.
+3. Merge the pull request to destination branch.
 
 ### We have used Github provided APIs on this.  We are using Github personal access token to access the Github resources.
 
